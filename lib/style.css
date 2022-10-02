@@ -1,0 +1,129 @@
+/* Add your styles here */
+.left
+{
+  background-color:dodgerblue;
+  float: left;
+  height: 900px;
+ width: 400px;
+}
+#assets{
+position: absolute;
+left: 8%;
+top: 125px;
+margin-left: 55px;
+}
+
+.simple
+{
+  position: absolute;
+width: 208px;
+height: 36px;
+left: 98px;
+top: 94px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+color: white;
+background-image:"asset/Vector.png" ;
+}
+
+#Signup{
+  position: absolute;
+width: 300px;
+height: 60px;
+left: 44px;
+top: 249px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+color: white;
+background: #333333;
+}
+
+.Login
+{
+position: absolute;
+width: 300px;
+height: 60px;
+left: 44px;
+top: 339px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+color: white;
+background: #333333;
+}
+
+.home
+{
+height: 900px;
+width: 1440px;
+
+
+}
+
+.imgg
+{
+  position: absolute;
+width: 951px;
+height: 607px;
+left: 422px;
+top: 167px;
+}
+
+.yazi1
+{
+position: absolute;
+width: 561px;
+height: 108px;
+left: 897px;
+top: 82px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 54px;
+
+color: #4F4F4F;
+}
+.yazi2{
+ 
+position: absolute;
+width: 561px;
+height: 108px;
+left: 475px;
+top: 734px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 54px;
+
+color: #4F4F4F;
+}
+
+.aa{
+  display: flex;
+  position: absolute;
+}
+
+p{
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+
+color: #FFFFFF;
+
+}
